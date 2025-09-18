@@ -1,1 +1,1 @@
-# BushaGo2.0
+# BushaGo2.0 now BushaGo
